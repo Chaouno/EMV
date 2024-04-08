@@ -1,0 +1,4 @@
+2023-03-04 21:33:12,797 - OpenInWSL 1.7 MSIX - INFO - RUN TEST: 
+2023-03-04 21:36:26,799 - OpenInWSL 1.7 MSIX - INFO - RUN TEST: 
+2023-03-05 03:59:27,320 - OpenInWSL 1.7 MSIX - INFO - RUN TEST: 
+2023-03-05 03:59:28,124 - OpenInWSL 1.7 MSIX - INFO - Hey, I see you are not using GWSL but are using some other xserver. You should get GWSL :-)
